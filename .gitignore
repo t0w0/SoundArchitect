@@ -5,6 +5,9 @@
 /[Bb]uilds/
 /Assets/AssetStoreTools*
 /Assets/Audio/
+/Assets/Editor/
+/Assets/MySynthetizer/
+/Assets/Standard Assets/
 /Assets/Phonon/
 /Assets/Phonon Test/
 /Assets/Plugins/
